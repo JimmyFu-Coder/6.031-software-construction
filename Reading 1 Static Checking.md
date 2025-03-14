@@ -1,3 +1,8 @@
+[[Checking]]
+[[Immutability]]
+[[SFB]]
+[[ETU]]
+[[RFC]]
 
 ## Static checking, dynamic checking, no checking
 
